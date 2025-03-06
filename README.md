@@ -1,7 +1,7 @@
 
 # The Door Dataset
 
-Trained YOLO v11L 50 epochs on 1213 images taken from the Door Dataset
+Trained YOLO v11L on 1213 images (50 epochs) taken from the Door Dataset
 
 
 ## Classes
